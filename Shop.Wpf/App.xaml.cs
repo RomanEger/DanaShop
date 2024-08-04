@@ -1,6 +1,8 @@
-﻿using System.Windows;
+﻿using System.Configuration;
+using System.Data;
+using System.Windows;
 
-namespace DanaShop;
+namespace Shop.Wpf;
 
 /// <summary>
 /// Interaction logic for App.xaml
@@ -8,4 +10,3 @@ namespace DanaShop;
 public partial class App : Application
 {
 }
-
